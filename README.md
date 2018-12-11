@@ -13,16 +13,17 @@ Change the return value of f to whatever
 Do note that complex root, while you won't recieve an error and mullers method supports them, are not correct. 
 This is more a c++ limitation as it does not support complex numbers by default and are added through external libraries. My goal for this project is to rely on only iostream so I would need to create my own complex number struct and overload each function in the case of complex roots. 
 
-### Run Prebuilt Binaries (MacOS 10.14.2 beta)
-``` $ ./bin/prebuilt_proj```
-
 ### Build Custom Binaries
 ``` $ make ```
 
 ### Run Custom Binaries
 ``` $ ./proj```
 
+## Known Bugs
+Memory Leak at muller.cpp - line 10
 
+## ToDo
+Add complex number support
 
 ## Sources
 https://en.wikipedia.org/wiki/Muller%27s_method
