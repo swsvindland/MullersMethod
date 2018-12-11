@@ -26,6 +26,6 @@ Memory Leak at muller.cpp - line 10
 Add complex number support
 
 ## Sources
-https://en.wikipedia.org/wiki/Muller%27s_method
-https://en.wikipedia.org/wiki/Divided_differences
-https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method
+https://en.wikipedia.org/wiki/Muller%27s_method <br/>
+https://en.wikipedia.org/wiki/Divided_differences <br/>
+https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method <br/>
